@@ -1,4 +1,5 @@
 # first-demo
 this is my first GitHub repository.
 <br>
-author - Rahul Raj
+author - Rahul Raj(student)
+
